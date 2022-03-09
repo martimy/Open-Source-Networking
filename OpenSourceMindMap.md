@@ -7,7 +7,8 @@ output: pdf_document
 @startmindmap
 scale 10
 skinparam titleFontSize 22
-title Open Source in Networking\n\n
+title Open Source Software in Networking\n
+
 <style>
 mindmapDiagram {
 LineThickness 1.5
