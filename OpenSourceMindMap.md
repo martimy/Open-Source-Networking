@@ -5,7 +5,7 @@ output: pdf_document
 
 ```puml {filename="netopensource.png"}
 @startmindmap
-scale 10
+scale 2
 skinparam titleFontSize 22
 title Open Source Software in Networking\n
 
