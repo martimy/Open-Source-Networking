@@ -86,14 +86,15 @@ LineThickness 1
 ***_ trafgen
 
 
-left side
-
 ** Routing
 ***_ BIRD
 ***_ OpenWRT
 ***_ Quagga
 ****_ FRR
 ***_ VyOS
+
+
+left side
 
 ** Security
 
@@ -120,7 +121,9 @@ left side
 ****_ Rsyslog
 ****_ Syslog-ng
 
-*** Packet Sniffing
+*** Packet Sniffing/Analysis
+****_ iptraf-ng
+****_ ntopng
 ****_ tcpdump
 ****_ Wireshark/Tshark
 
@@ -146,6 +149,14 @@ left side
 ** Switching
 ***_ Linux Bridge
 ***_ Open vSwitch (OVS)
+
+** Ticket System
+***_ FreeScout
+***_ UVdesk
+***_ Osticket
+***_ Zammad
+***_ FAVO helpdesk
+***_ Handesk
 
 
 ** Visualization

@@ -5,6 +5,7 @@
 The map is created using [Atom](https://atom.io) with [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/), [PlantUML](https://plantuml.com/), and [Pandoc](https://pandoc.org).
 
 ![Open Source Software in Networking](assets/netopensource.png)
+
 ## License
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
