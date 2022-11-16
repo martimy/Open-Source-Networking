@@ -37,6 +37,9 @@ LineThickness 1
 ****_ Gitlab
 ****_ cBackup
 
+*** Management
+****_ Netbox
+
 *** Validation
 **** Analytical
 *****_ Batfish
@@ -58,8 +61,6 @@ LineThickness 1
 ****_ Diagram Editor
 ****_ Graphviz
 ****_ PlantUML
-*** Management
-****_ Netbox
 ***_ LibreOffice
 
 
