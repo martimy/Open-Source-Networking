@@ -54,10 +54,13 @@ LineThickness 1
 
 ** Documentation
 ***_ Atom
-***_ Diagram Editor
-***_ Graphviz
+*** Diagrams
+****_ Diagram Editor
+****_ Graphviz
+****_ PlantUML
+*** Management
+****_ Netbox
 ***_ LibreOffice
-***_ PlantUML
 
 
 ** Monitoring
@@ -69,13 +72,16 @@ LineThickness 1
 ****_ LibreNMS
 ***_ Prometheus
 ***_ Zabbix
-
+*** Observability
+****_ SuzieQ
 
 ** Network Operating System (NOS)
 ***_ Cumulus (based on FRR)
 ***_ Open Network Linux (ONL)
 ***_ Open Switch (OPX)
 ***_ SONiC
+
+
 
 ** Packet Generators
 ***_ iperf2
@@ -85,6 +91,7 @@ LineThickness 1
 ***_ tgn
 ***_ trafgen
 
+left side
 
 ** Routing
 ***_ BIRD
@@ -93,8 +100,6 @@ LineThickness 1
 ****_ FRR
 ***_ VyOS
 
-
-left side
 
 ** Security
 
