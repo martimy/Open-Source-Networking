@@ -94,6 +94,7 @@ LineThickness 1
 ***_ SONiC
 
 
+left side
 
 ** Packet Generators
 ***_ iperf2
@@ -103,7 +104,6 @@ LineThickness 1
 ***_ tgn
 ***_ trafgen
 
-left side
 
 ** Routing
 ***_ BIRD
