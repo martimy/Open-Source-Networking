@@ -48,6 +48,17 @@ LineThickness 1
 *****_ EVE-NG
 *****_ GNS3
 
+** Databases
+*** No SQL
+****_ InfluxDB
+****_ Neo4j
+****_ MongoDB
+****_ Redis
+*** Relational
+****_ MariaDB
+****_ MySQL
+****_ PostgreSQL
+****_ SQLite
 
 ** Discovery/Mapping
 ***_ Nmap
@@ -56,7 +67,7 @@ LineThickness 1
 ***_ rConfig
 
 ** Documentation
-***_ Atom
+***_ Atom (retired)
 *** Diagrams
 ****_ Diagram Editor
 ****_ Graphviz
