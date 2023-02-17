@@ -78,14 +78,15 @@ LineThickness 1
 ** Monitoring
 ***_ Grafana
 ***_ Graphite
-***_ Nagios Core
-****_ Icinga
-***_ Observium
-****_ LibreNMS
-***_ Prometheus
-***_ Zabbix
 *** Observability
 ****_ SuzieQ
+*** SNMP
+****_ Nagios Core
+*****_ Icinga
+****_ Observium
+*****_ LibreNMS
+****_ Prometheus
+****_ Zabbix
 
 ** Network Operating System (NOS)
 ***_ Cumulus (based on FRR)
@@ -117,9 +118,10 @@ left side
 
 *** Firewalls
 ****_ IPFire
-****_ OPNsense
 ****_ iptables
 ****_ pfSense
+*****_ OPNsense
+****_ Untangle
 
 *** IDS/IPS
 **** HIDS
