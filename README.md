@@ -1,6 +1,4 @@
-# Mindmaps
-
-## Open Source Software in Networking
+# Open Source Software in Networking
 
 The map is created using [Atom](https://atom.io) with [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/), [PlantUML](https://plantuml.com/), and [Pandoc](https://pandoc.org).
 
